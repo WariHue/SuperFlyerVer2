@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e640686-7949-4118-b2c9-ab14ca732942" name="Changes" comment="new thing">
+    <list default="true" id="8e640686-7949-4118-b2c9-ab14ca732942" name="Changes" comment="new thing1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/github/warihue/superflyer/SuperFlayer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/github/warihue/superflyer/SuperFlayer.kt" afterDir="false" />
     </list>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661474217181</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new thing1">
+      <created>1661474479750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661474479750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new thing" />
-    <option name="LAST_COMMIT_MESSAGE" value="new thing" />
+    <MESSAGE value="new thing1" />
+    <option name="LAST_COMMIT_MESSAGE" value="new thing1" />
   </component>
 </project>
